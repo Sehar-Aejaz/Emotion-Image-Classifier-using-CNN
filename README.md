@@ -57,7 +57,7 @@ It also includes a full machine-learning workflow covering data preprocessing, a
 ---
 
 ## Project Structure
-
+```
 EmotionVision-CNN/
 │
 ├── data/                     # Emotion class folders (anger, happy, etc.)
@@ -78,7 +78,7 @@ EmotionVision-CNN/
 │   └── confusion_matrix.png
 │
 └── README.md
-
+```
 ---
 
 ## Dataset
